@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd-class {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.third-class {
+    font-size: 24px;
+}
+
+#fourth-id {
+    background-color: lightgreen;
+    font-weight: bold;
+}
